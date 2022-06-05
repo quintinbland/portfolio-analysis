@@ -1,5 +1,5 @@
 # portfolio-analysis
-A quantitative analysis tool will asses investment portfolio performance and risk. 
+A quantitative analysis tool assessing investment portfolio performance and risk. 
 
 
 ## Technologies
